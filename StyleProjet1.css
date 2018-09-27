@@ -113,12 +113,6 @@
         
         }
 
-        header
-        {
-        background-image: url("");
-        display: flex;
-        }
-
         section
         {
         flex-grow:1; 
