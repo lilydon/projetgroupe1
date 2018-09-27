@@ -1,0 +1,40 @@
+.logo
+{
+width: 185px;
+height: 47px;
+background-image: url(logo.png);
+align-self:center;
+}
+.image
+{
+background-image: url();
+}
+h1
+{
+flex:1;
+margin-left:40%;
+}
+footer
+{
+display: flex;
+justify-content:space-around;
+font-size:large;
+background-image: url(Back1.jpg);
+padding-top:1%;
+padding-bottom:1%;
+}
+body
+{
+display: flex;
+flex-direction:column;
+min-height:100vh;
+}
+section
+{
+flex-grow:1;
+}
+header
+{
+background-image: url(Back1.jpg);
+display: flex;
+}
