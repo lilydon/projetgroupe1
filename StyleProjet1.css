@@ -7,6 +7,10 @@ font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 display: flex;
 flex-direction:column;
 min-height:100vh;
+margin-top: 0px;
+margin-right: 0px;
+margin-left: 0px;
+margin-bottom: 0px;
 }
 h1
 {
@@ -118,7 +122,7 @@ background-image:url(Back1.png);
 }
 .gris
 {
-width:8vh;
+width:4vh;
 height:200vh;
 background-color:#444;
 }
