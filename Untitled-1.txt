@@ -7,19 +7,16 @@ font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 display: flex;
 flex-direction:column;
 min-height:100vh;
-margin-top: 0px;
-margin-right: 0px;
-margin-left: 0px;
-margin-bottom: 0px;
 }
 h1
 {
 flex:1;
 margin-left:40%;
-font-size: 32px;
-color: #444453;
-
-
+ font-size: 72px;
+background: -webkit-linear-gradient(#eee, #333);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  }
 }
 .logo
 {
@@ -31,7 +28,7 @@ align-self:center;
 nav ul
 {
 list-style: none;
-background-color: #4a5275;
+background-color: #444;
 text-align: center;
 padding: 0;
 margin: 0;
@@ -39,7 +36,7 @@ margin: 0;
 nav li 
 {
 font-size: 1.2em;
-line-height: 140px;
+line-height: 160px;
 text-align: left;
 } 
 nav a 
@@ -47,7 +44,7 @@ nav a
 text-decoration: none;
 color: #FFF;
 display: block;
-padding-left: 15px;
+padding-left: 30px;
 border-bottom: 1px solid #888;
 transition: .3s background-color;
 }
@@ -58,7 +55,7 @@ background-color: #005F5F;
 nav a.active 
 {
 background-color: #AAA;
-color:#4a5275;
+color: #444;
 cursor: default;
 }
 nav li li 
@@ -103,7 +100,7 @@ display: block;
 }
 .hero
 {
-background-image:url(images/header-coding.jpg);
+background-image:url(header.jpg);
 height:40vh;
 flex:1;
 background-repeat: no-repeat;
@@ -111,30 +108,34 @@ background-repeat: no-repeat;
 header
 {
 display: flex;
-background-image: url(images/bh.png)
+background-color: #444;
+color: #37BFBF;
 }
+
+
+
 article
 {
 display: flex;
-flex-grow:1;
+flex-grow:0.5;
+vertical-align: text-top;
+color: #1C657F;
+background-color:#CCC6C4;
+margin: 50px;
+margin-left: 500px;
+margin-right: 500px;
+
 }
-h2
-{
-margin-bottom:5vh;
-}
+
+
 section
 {
-flex-grow:1;
-background-image:url(Back1.png);
-align-self:flex-start;
+flex-grow:10;
+text-align:center;
+-ms-flex-align: center;
+
 }
-.gris
-{
-width:2vh;
-height:200vh;
-background-color:#b9bdcb;
-background: -webkit-linear-gradient(#4a5275, #b9bdcb) ;
-}
+
 footer
 {
 display: flex;
@@ -142,20 +143,6 @@ justify-content:space-around;
 font-size:large;
 padding-top:2vh;
 padding-bottom:2vh;
-background-color: #b9bdcb;
-color: #5c5d64;
-border: #9d9fa7;
+background-color: #444;
+color: white;
 }
-.fond
-{
-background-color:#FFF5F5;
-display: flex;
-flex-direction: column;
-text-align:center;
-padding:3vh;
-margin:30vh;
-border-radius:10px 10px;
-}
-
- 
-

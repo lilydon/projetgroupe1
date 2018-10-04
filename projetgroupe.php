@@ -1,20 +1,6 @@
-DOCUMENT HTML
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<title>balises Html</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="StyleProjet1.css">
-</head>
-
-<body>
-<header><h1>La découverte des balises Html</h1>
-<div class=logo></div>
-</header>
 
 
+<?.php include ("header1.html"); ?>
 <nav>
     <ul>
         <li class="home"><a href="#">Home</a></li>

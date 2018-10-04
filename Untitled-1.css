@@ -1,7 +1,8 @@
+
+
 body 
 {
 font-family:'Oswald', sans-serif;
-background-image: url("images/BCS.png");
 color: #000000;
 font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 display: flex;
@@ -16,22 +17,23 @@ h1
 {
 flex:1;
 margin-left:40%;
-font-size: 32px;
-color: #444453;
-
-
+font-size: 72px;
+background: -webkit-linear-gradient(#eee, #333);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  
 }
 .logo
 {
 width: 185px;
 height: 47px;
-background-image: url(logo.png);
+background-image: url(images/logo.png);
 align-self:center;
 }
 nav ul
 {
 list-style: none;
-background-color: #4a5275;
+background-color: #444;
 text-align: center;
 padding: 0;
 margin: 0;
@@ -39,7 +41,7 @@ margin: 0;
 nav li 
 {
 font-size: 1.2em;
-line-height: 140px;
+line-height: 40px;
 text-align: left;
 } 
 nav a 
@@ -58,7 +60,7 @@ background-color: #005F5F;
 nav a.active 
 {
 background-color: #AAA;
-color:#4a5275;
+color: #444;
 cursor: default;
 }
 nav li li 
@@ -67,7 +69,7 @@ font-size: .8em;
 }
 nav li 
 {
-width: 200px;
+width: 130px;
 border-bottom: none;
 height: 50px;
 line-height: 50px;
@@ -103,37 +105,44 @@ display: block;
 }
 .hero
 {
-background-image:url(images/header-coding.jpg);
-height:40vh;
+background-image:url(images/header.jpg);
+height:30vh;
 flex:1;
 background-repeat: no-repeat;
 }
 header
 {
 display: flex;
-background-image: url(images/bh.png)
+background-color: #444;
+color: white;
 }
 article
 {
 display: flex;
 flex-grow:1;
+max-width:100%;
 }
 h2
 {
 margin-bottom:5vh;
+font-size:xx-large;
+}
+p
+{
+font-size:large;
 }
 section
 {
 flex-grow:1;
-background-image:url(Back1.png);
+background-image:url(images/Back1.png);
 align-self:flex-start;
 }
 .gris
 {
-width:2vh;
-height:200vh;
-background-color:#b9bdcb;
-background: -webkit-linear-gradient(#4a5275, #b9bdcb) ;
+width:4vh;
+flex-grow:1;
+background-color:#444;
+min-width:10px;
 }
 footer
 {
@@ -142,9 +151,8 @@ justify-content:space-around;
 font-size:large;
 padding-top:2vh;
 padding-bottom:2vh;
-background-color: #b9bdcb;
-color: #5c5d64;
-border: #9d9fa7;
+background-color: #444;
+color: white;
 }
 .fond
 {
@@ -152,10 +160,13 @@ background-color:#FFF5F5;
 display: flex;
 flex-direction: column;
 text-align:center;
-padding:3vh;
-margin:30vh;
+padding-right:30vh;
+padding-top: 10vh;
+padding-left:30vh;
+padding-bottom:30vh;
+margin-right:20vh; 
+margin-bottom:20vh;
+margin-left:20vh;
+margin-top:10vh;
 border-radius:10px 10px;
 }
-
- 
-
