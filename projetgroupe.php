@@ -23,3 +23,5 @@ Les balises vous sont si abstraites que du Picasso ? Ce site est fait pour vous.
 <div>2018-Belfort</div> <div>Access code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
 </footer>
 
+</body>
+</html>
