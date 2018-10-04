@@ -3,10 +3,10 @@
 
 
 <article>
-<div class=gris></div> 
+<div class="gris"></div> 
 <section>
-<div class=hero></div>
-<div class=fond>
+<div class="hero"></div>
+<div class="fond">
                 <h2>
                     meta
                 </h2>
@@ -21,7 +21,7 @@
                             
                             La balise <strong>meta</strong>  doit toujours se trouver dans la balise head                       
                     </p> 
-                    <div class=image>
+                    <div class="image">
                         <img src="meta.png" alt="balise meta">
                         <br>
                     </div>
@@ -30,7 +30,7 @@
                         
                 
             </section>
-            <div class=gris></div>
+            </div class="gris">
         </article>
         <footer>
             <div>25/09/2018 à Belfort</div>  <div>Acces code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>

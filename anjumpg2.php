@@ -4,10 +4,10 @@
 
 
 <article>
-<div class=gris></div> 
+<div class="gris"></div> 
 <section>
-<div class=hero></div>
-<div class=fond>
+<div class="hero"></div>
+<div class="fond">
 <h2>
 Tutorial <strong> Balises </strong>
 </h2>
@@ -22,14 +22,14 @@ Tutorial <strong> Balises </strong>
 
        <h2>Attributs spécifiques à cet élément</h2><br>
 
-        <div class=image>
+        <div class="image">
                 <img src="link.png" alt="examples de differents links">
 
             </div>
 </p>
 </div>
 </section>
-<div class=gris></div>
+</div class="gris">
 </article>
 <footer>
 <div>2018-Belfort</div> <div>Access code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
