@@ -1,9 +1,12 @@
+<?php include ("header1.html"); ?>
 
-<?.php include ("header1.html"); ?>
 
- 
-    <section>
-        <h2>
+<article>
+<div class=gris></div> 
+<section>
+<div class=hero></div>
+<div class=fond>
+<h2>
        Aside
         </h2>
 
@@ -13,11 +16,16 @@
         Souvent dans les article journalistique ,  elle est utilisé comme contenu secondaire pour rendre l’article plus complet avec un focus ; à propos. 
 
         </p>
-        <img scr="tutoaside.jpg">
-
-    </section>
-
+  <img scr="tutoaside.jpg">
+</div>
+</section>
+<div class=gris></div>
+</article>
 <footer>
-2018 Acces code school . Anjum, Alain, Bilel, Ophélie . mention légal .
+<div>2018-Belfort</div> <div>Access code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
 </footer>
+   
+</body>
+</html>
 
+    
