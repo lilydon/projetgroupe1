@@ -41,7 +41,7 @@
         </div class="gris">
  </article>
                 <footer>
-                    <div>25/09/2018 à Belfort</div>  <div>Acces code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
+                    <div>25/09/2018 à Belfort</div>  <div>Acces code school</div> <div>Prénoms des codeurs : Anjum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
                 </footer>
             </body>
         </html>
