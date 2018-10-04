@@ -1,6 +1,6 @@
 
 
-<?.php include ("header1.html"); ?>
+<?php include ("header1.html"); ?>
 
 
 
@@ -22,6 +22,6 @@ Les balises vous sont si abstraites que du Picasso ? Ce site est fait pour vous.
 <footer>
 <div>2018-Belfort</div> <div>Access code school</div> <div>Prénoms des codeurs : AnJum, Alain, Bilel, Ophélie</div> <div>mention légal</div>
 </footer>
-
+   
 </body>
 </html>
