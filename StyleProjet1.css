@@ -1,3 +1,4 @@
+
 body 
 {
 font-family:'Oswald', sans-serif;
@@ -18,8 +19,18 @@ flex:1;
 margin-left:40%;
 font-size: 32px;
 color: #444453;
+}
 
-
+p
+{
+text-align:justify;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+}
 }
 .logo
 {
@@ -111,7 +122,9 @@ background-repeat: no-repeat;
 header
 {
 display: flex;
-background-image: url(images/bh.png)
+background-image: url(images/bh.png);
+
+
 }
 article
 {
