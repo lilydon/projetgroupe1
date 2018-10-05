@@ -16,7 +16,7 @@ La balise nav
 </h2>
 
 <p>
-La balise nav est une balise semantique sert à créer généralement une barre de menu, avec des liens interne et externe. 
+La balise nav est une balise semantique sert à créer généralement une barre de menu, avec des liens interne et externe. <br>
  Cette balise sert à indiquer une liste de liens dédiée à la navigation du site. Plusieurs balises < nav > peuvent co exister sur une même page web. 
 
 </p>
