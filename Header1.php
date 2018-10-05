@@ -34,7 +34,7 @@
                 <li><a href="titreanjum.php"> tuto titre</a>1</a></li>
                 <li><a href="anjumpg3.php">tuto body</a></li>
                 <li><a href="anjumpg4.php">tuto meta</a></li>
-                <li><a href="alainpg2.php">tuto link </a></li>
+                <li><a href="anjumpg2.php">tuto link </a></li>
             </ul>
         </li>
 

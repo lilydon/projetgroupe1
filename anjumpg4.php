@@ -25,7 +25,7 @@
                             La balise <strong>meta</strong>  doit toujours se trouver dans la balise head                       
                     </p> 
                     
-                        <img src="meta.png" alt="balise meta">
+                        <img src="images/meta.png" alt="balise meta">
                         <br>
                     
                     
