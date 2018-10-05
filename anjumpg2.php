@@ -24,7 +24,7 @@ Tutorial <strong> Balises </strong>
        <h3>Attributs spécifiques à cet élément</h3><br>
 
         <div class="image">
-                <img src="link.png" alt="examples de differents links">
+                <img src="images/link.png" alt="examples de differents links">
 
             </div>
 </p>
