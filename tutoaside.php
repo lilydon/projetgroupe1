@@ -21,7 +21,7 @@ La balise Aside
 <p>
  Aside est une balise qui a beaucoup évolué. Elle peut être utilisé pour le coté mais on ne peut la considiré comme une sidebare. <br> Elle peut être une contenue annexe comme pour une publicité. 
 
-Souvent dans les article journalistique ,  elle est utilisé comme contenu secondaire pour rendre l’article plus complet avec un focus.  
+Souvent dans les article journalistique ,  elle est utilisé comme contenu secondaire pour rendre l’article plus complet avec un focus. Ceci projette des choses importantes/synthèses sur les informations importantes. 
 
 </p>
 

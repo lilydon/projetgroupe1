@@ -19,6 +19,7 @@ La balise nav
 La balise nav est une balise semantique sert à créer généralement une barre de menu, avec des liens interne et externe. <br>
  Cette balise sert à indiquer une liste de liens dédiée à la navigation du site. Plusieurs balises < nav > peuvent co exister sur une même page web. 
 
+
 </p>
 <br>
 <img src="images/tutonav.jpg" id="responsive-image" width="500px"> 
