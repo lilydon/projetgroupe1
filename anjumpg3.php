@@ -10,7 +10,9 @@
 <div class="fond">
     
                 <h2>
-                    Titre 
+                    balise body
+                        
+                   
                 </h2>
                 
                     <p> La balise <body> définit le corps du document.
