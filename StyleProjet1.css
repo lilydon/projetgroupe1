@@ -2,7 +2,7 @@
 body 
 {
 font-family:'Oswald', sans-serif;
-background-image: url("images/BCS.png");
+background-image: url("images/bcs.png");
 color: #000000;
 font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 display: flex;
@@ -144,7 +144,7 @@ margin-bottom:5vh;
 section
 {
 flex-grow:1;
-background-image:url(Back1.png);
+background-image:url(back1.png);
 align-self:flex-start;
 
 }

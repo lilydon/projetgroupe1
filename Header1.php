@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="StyleProjet1.css">
+<link rel="stylesheet" href="styleprojet1.css">
 </head>
 
 <body>
@@ -40,12 +40,12 @@
 
         <li class="tutorials"><a href="#">Tuto de Bilel</a>
             <ul>
-                <li><a href="Bibihtml.php"> tuto html </a></li>
-                <li><a href="BibiH1H6.php"> tuto h1-h6</a></li>
-                <li><a href="BibiForm.php"> tuto form</a></li>
-                <li><a href="Bibili.php"> tuto li</a></li>
+                <li><a href="bibihtml.php"> tuto html </a></li>
+                <li><a href="bibih1h6.php"> tuto h1-h6</a></li>
+                <li><a href="bibiform.php"> tuto form</a></li>
+                <li><a href="bibili.php"> tuto li</a></li>
             </ul>
-        </li>
+        </li>h
 
         
         <li class="tutorials"><a href="#">Tuto d'Ophélie</a>

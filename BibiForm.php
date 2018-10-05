@@ -38,7 +38,7 @@
                     <li>textarea</li>
                 </ul>
             </p>
-            <img src="images/elementForm.jpg" />
+            <img src="images/elementform.jpg" />
 
     </section>
     <div class=gris></div>

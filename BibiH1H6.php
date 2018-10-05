@@ -30,7 +30,7 @@
                 est
                 une erreur pour le référencement).
             </p>
-            <img src="images/Baliseh1.png" />
+            <img src="images/baliseh1.png" />
 
     </section>
     <div class=gris></div>

@@ -19,7 +19,7 @@
                 utilisant des puces. Dans les listes ordonnées, ils sont habituellement affichés avec
                 compteur croissant à gauche, tel qu'un nombre ou une lettre
             </p>
-            <img src="images/Baliseli.png" />
+            <img src="images/baliseli.png" />
 
     </section>
     <div class=gris></div>
