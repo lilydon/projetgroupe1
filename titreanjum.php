@@ -31,10 +31,10 @@
                                 
                             </p> 
                             <div class="photo">
-                                <img src="titres-html.png" alt="coding de heading">
+                                <img src="images/titres-html.png" alt="coding de heading">
                                 <br>
 
-                                <img src="titres.png" alt="resultat de heading">
+                                <img src="images/titres.png" alt="resultat de heading">
                             </div>
                                 
                             

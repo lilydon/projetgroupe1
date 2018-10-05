@@ -11,10 +11,11 @@
     <div class="fond">
 
         <h2>
-        BR 
+        La balise BR 
         </h2>
         <p>
-        l'élement < BR > sert à sauté à la ligne. il est principalement utilisé pour des poèmes ... l'usage doit rester modérer. Pour la mise en page, il y a margin a utilisé ...
+        La balise < BR > sert à sauté à la ligne. il est principalement utilisé pour des poèmes ... l'usage doit rester modérer.
+        <br> Pour la mise en page, il y a margin a utilisé ... <br>
     
     <img src="images/tutobr.jpg" id="responsive-image" width="500px">
 
