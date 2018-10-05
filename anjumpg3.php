@@ -1,5 +1,8 @@
 
-<?php include ("header1.html"); ?>
+<?php 
+    $pagetitle='Tutoriel Body';
+    include ("header1.php"); 
+?>
 
 
 

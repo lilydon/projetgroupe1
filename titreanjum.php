@@ -1,4 +1,7 @@
-<?php include ("header1.html"); ?>
+<?php 
+    $pagetitle='Tutoriel titre';
+    include ("header1.php"); 
+?>
 
 
 

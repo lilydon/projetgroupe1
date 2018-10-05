@@ -1,5 +1,8 @@
 
-<?php include ("header1.html"); ?>
+<?php 
+    $pagetitle='Tutoriel NAV';
+    include ("header1.php"); 
+?>
 
 <article>
 
