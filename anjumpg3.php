@@ -22,12 +22,11 @@
 
                             L’élément <body> contient tout le contenu d’un document HTML, comme le texte, des hyperliens, des images, des tableaux, des listes, etc.
                     </p> 
-                    <div class="image">
+                    
                         <img src="body1.png" alt="balise body">
                         <br>
 
-                        
-                    </div>
+                 
                          
                     
                         
