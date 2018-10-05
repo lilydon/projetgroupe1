@@ -111,7 +111,9 @@ background-repeat: no-repeat;
 header
 {
 display: flex;
-background-image: url(images/bh.png)
+background-image: url(images/bh.png);
+
+
 }
 article
 {
