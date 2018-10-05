@@ -11,9 +11,6 @@
             <h2>
                 La Balise FORM
             </h2>
-          
-                <h2>Présentation de la balise FORM</h2>
-                <br>
                 <p>
                 La balise "form" déclare une zone de formulaire dans laquelle les utilisateurs peuvent saisir des
                 informations qui pourront par la suite être récupérées et traitées côté serveur. Il est possible
@@ -22,6 +19,7 @@
                 soit à l'aide de la balise input : input type="submit" ... /
                 soit à l'aide du javascript en appliquant la fonction "submit()" au formulaire (en se basant sur son
                 identifiant).
+                <br>
                 <br>
                 D'autre part, pour utiliser cette notion de formulaire, il est important de donner les valeurs
                 adéquates aux principaux attributs de la balise "form":
