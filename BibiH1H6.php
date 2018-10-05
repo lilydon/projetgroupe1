@@ -1,4 +1,7 @@
-<?php include ("header1.html"); ?>
+<?php 
+    $pagetitle='Tutoriel H1-h6';
+    include ("header1.php"); 
+?>
 <article>
     <div class=gris></div>
     <section>
