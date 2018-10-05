@@ -9,8 +9,6 @@
                 La Balise Li
             </h2>
             <p>
-                Présentation de la balise
-                <br>
                 L'élément HTML (li) est utilisé pour représenter un élément dans une liste. Il doit être contenu dans
                 un
                 élément parent : une liste ordonnée (ol), une liste non ordonnée (ul) ou un menu (menu). Dans les

@@ -5,11 +5,9 @@
         <div class=hero></div>
         <div class=fond>
             <h2>
-                Balise (h1 à h6)
+                La Balise (h1 à h6)
             </h2>
             <p>
-                Présentation de la balise h1 à h6
-                <br>
                 La balise h1 est une balise présente dans le code d’une page web pour marquer le titre principal du
                 contenu
                 (par exemple, le titre d’un article de blog, le titre principal du texte de la page…). A ne pas

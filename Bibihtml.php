@@ -8,8 +8,6 @@
                 La Balise HTML
             </h2>
             <p>
-                Présentation de la Balise HTML
-                <br>
                 HTML (HyperText Markup Language) est un langage descriptif utilisé pour structurer le contenu d'une
                 page
                 (ses textes, ses images, ses liens, etc.).
